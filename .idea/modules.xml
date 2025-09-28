@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/handson_4_TI.iml" filepath="$PROJECT_DIR$/handson_4_TI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlowPractice.iml" filepath="$PROJECT_DIR$/ControlFlowPractice.iml" />
     </modules>
   </component>
 </project>
